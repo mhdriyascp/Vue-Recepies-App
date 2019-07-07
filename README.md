@@ -1,6 +1,7 @@
 # vue-recepies
 
 > A Vue.js project
+firebaseurl : https://vue-recepies.web.app
 
 ## Build Setup
 
